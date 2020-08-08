@@ -1,7 +1,3 @@
 node_modules/
 dist/
 .cache/
-
-# yarn and npm
-yarn.lock
-package-lock.json
