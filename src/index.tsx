@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import App from './App';
 
-const rootComponent = <h1>Hello pong!</h1>;
 const rootContainer = document.getElementById('root');
 
-ReactDOM.render(rootComponent, rootContainer);
+ReactDOM.render(<App />, rootContainer);
