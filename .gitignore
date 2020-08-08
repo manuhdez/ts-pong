@@ -4,4 +4,4 @@ dist/
 
 # yarn and npm
 yarn.lock
-package.lock.json
+package-lock.json
